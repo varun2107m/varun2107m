@@ -135,16 +135,16 @@ An AI-assisted command center for delivery reviews, risks, actions and stakehold
 ## GitHub Dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varun2107m&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun2107m&layout=compact&theme=github_dark&hide_border=true" alt="Most-used languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=varun2107m&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun2107m&layout=compact&theme=github_dark&hide_border=true" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=varun2107m&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=varun2107m&theme=github-dark-blue&hide_border=true" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varun2107m&theme=github_dark" alt="GitHub contribution summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varun2107m&theme=github_dark" alt="" />
 </p>
 
 ---
