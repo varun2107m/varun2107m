@@ -18,7 +18,7 @@
 
 ### Varun Malhotra
 
-**QA Leader | Solutioning Director**  
+**QA Leader**  
 **Program & Project Management**  
 **EdTech SaaS**
 
@@ -32,7 +32,7 @@
 ```text
 varun@github
 ────────────────────────────────────────────
-Role        : QA & Solutioning Leader
+Role        : QA & Program Management
 Experience  : 12+ years
 Location    : Gurugram, India
 
