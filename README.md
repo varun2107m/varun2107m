@@ -2,7 +2,7 @@
 
 # Varun Malhotra
 
-### QA Leader • Solutioning Director • Program & Project Management • EdTech SaaS
+### QA Leader • Program & Project Management • EdTech SaaS
 
 </div>
 
